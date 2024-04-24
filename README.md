@@ -1,2 +1,2 @@
-# nextjs-intro-example
-Nextjs introduction example 
+# Curso
+Curso Introduccion de Node JS
