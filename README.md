@@ -1,2 +1,2 @@
-# cursonodejs
-Curso realizado para introduccion de Node Js
+# nextjs-intro-example
+Nextjs introduction example 
